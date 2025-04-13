@@ -53,4 +53,28 @@ Analytics: Track food saved, people served, and CO₂ emissions prevented.
 Verification: Onboarding verified NGOs and volunteers.
 Fraud Detection: Flagging of fraudulent users or expired posts.
 
+![Screenshot (248)](https://github.com/user-attachments/assets/31aae397-4af3-44ec-b2bf-90d98a79eb0c)
+![Screenshot (249)](https://github.com/user-attachments/assets/707d5256-13a6-4b58-b0e0-af37f8851b60)
+![Screenshot (250)](https://github.com/user-attachments/assets/e0cbd9bb-0f98-4566-8c3f-841b07e8701f)
+![Screenshot (251)](https://github.com/user-attachments/assets/0ea91b3c-25e7-4c92-a880-b5a84099ee18)
+![Screenshot (252)](https://github.com/user-attachments/assets/48920231-67ea-4b14-bdce-c58432634ed5)
+![Screenshot (253)](https://github.com/user-attachments/assets/e94293d8-0897-44aa-a26c-1f4895205696)
+![Screenshot (254)](https://github.com/user-attachments/assets/4c5e62ca-3de8-4000-8104-266e748d7b68)
+![Screenshot (255)](https://github.com/user-attachments/assets/3f454739-cf2d-40f9-ac0c-4c7e09868072)
+![Screenshot (256)](https://github.com/user-attachments/assets/6acf1c66-7fc5-4773-b875-6d2cf88279b8)
+![Screenshot (257)](https://github.com/user-attachments/assets/5e2b476d-5e10-4c0d-80fb-98454313126e)
+![Screenshot (258)](https://github.com/user-attachments/assets/b87b1952-e6b5-4edd-a3a8-05890c4535cd)
+![Screenshot (259)](https://github.com/user-attachments/assets/09f36bc1-ada0-4648-825a-acaf1f213129)
+![Screenshot (260)](https://github.com/user-attachments/assets/965bfb5d-ba10-4b02-ad88-fab76749fb62)
+
+
+
+
+
+
+
+
+
+
+
 
