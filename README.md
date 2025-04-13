@@ -1,5 +1,9 @@
 Zero-Waste - AI Powered Geo-Intelligent Food Donation & Rescue System
+
+
 Project Title: Zero-Waste
+
+
 Domain: Web Development
 
 Problem Statement:
